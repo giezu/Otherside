@@ -1,0 +1,1150 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"maxhi",
+				"max_height"
+			],
+			[
+				"Screen",
+				"Screen.height	[property]"
+			],
+			[
+				"smotth",
+				"Mathf.SmoothDamp(current, target, ref currentVelocity, smoothTime, maxSpeed, deltaTime)"
+			],
+			[
+				"Mathpi",
+				"Mathf.PI	[property]"
+			],
+			[
+				"euler",
+				"eulerAngles	Transform.*"
+			],
+			[
+				"Matfpi",
+				"Mathf.PI	[property]"
+			],
+			[
+				"mathfsin",
+				"Mathf.Sin(f)"
+			],
+			[
+				"DebugLog",
+				"Debug.Log	*(message, context)"
+			],
+			[
+				"0f",
+				"Origin360.Left"
+			],
+			[
+				"getchild",
+				"Transform.GetChild(index)"
+			],
+			[
+				"maxhei",
+				"max_height"
+			],
+			[
+				"appquit",
+				"Application.Quit()"
+			],
+			[
+				"setFloat",
+				"setFloat	Material.*(nameID, value)"
+			],
+			[
+				"enum",
+				"enum	SerializedPropertyType.*"
+			],
+			[
+				"list",
+				"ListMatchResponse()"
+			],
+			[
+				"String",
+				"String	[class]"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"transfopoint",
+				"transform.TransformPoint	*(x, y, z)"
+			],
+			[
+				"Transformpoint",
+				"Transform.TransformPoint	*(x, y, z)"
+			],
+			[
+				"Debuglog",
+				"Debug.Log	*(message, context)"
+			],
+			[
+				"Matcos",
+				"Mathf.Cos	*(f)"
+			],
+			[
+				"V3mo",
+				"Vector3.SmoothDamp	*(current, target, ref currentVelocity, smoothTime, maxSpeed, deltaTime)"
+			],
+			[
+				"FindWit",
+				"FindWithTag	GameObject.*(tag)"
+			],
+			[
+				"MesHRen",
+				"MeshRenderer	[class]"
+			],
+			[
+				"isdoo",
+				"is_door_on"
+			],
+			[
+				"isdoron",
+				"is_door_on"
+			],
+			[
+				"Vector3dis",
+				"Vector3.Distance	*(a, b)"
+			],
+			[
+				"Vect3",
+				"Vector3.Distance	*(a, b)"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"Set",
+				"Set	Vector3.*(new_x, new_y, new_z)"
+			],
+			[
+				"GameObje",
+				"GameObject	[class]"
+			],
+			[
+				"Vecto3",
+				"Vector3	[class]"
+			],
+			[
+				"Vec3",
+				"Vector3	[class]"
+			],
+			[
+				"V3",
+				"Vertex3	GL.*(x, y, z)"
+			],
+			[
+				"GLFLOA",
+				"GL_FLOAT"
+			],
+			[
+				"GL_TEXT",
+				"GL_TEXTURE_2D"
+			],
+			[
+				"gett",
+				"get_delta_time	(outline_scene.cpp)"
+			],
+			[
+				"mat",
+				"material_0"
+			],
+			[
+				"xa",
+				"x_angle"
+			],
+			[
+				"tot",
+				"total_sum"
+			],
+			[
+				"y",
+				"y_index"
+			],
+			[
+				"to",
+				"total_sum"
+			],
+			[
+				"rend",
+				"render_texture"
+			],
+			[
+				"ren",
+				"render_texture"
+			],
+			[
+				"wino",
+				"win_obj	(outline_scene.hpp)"
+			],
+			[
+				"win",
+				"window_ptr"
+			],
+			[
+				"fine",
+				"file_name_sstream"
+			],
+			[
+				"GLFWKE",
+				"GLFW_KEY_DOWN"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/GameManager.cs",
+			"settings":
+			{
+				"buffer_size": 3883,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/noe_src/item_noe_controller.cs",
+			"settings":
+			{
+				"buffer_size": 1815,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/noe_src/player_noe_controller.cs",
+			"settings":
+			{
+				"buffer_size": 3736,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/player_controller.cs",
+			"settings":
+			{
+				"buffer_size": 3144,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/floor_generator.cs",
+			"settings":
+			{
+				"buffer_size": 11244,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/floor_controller.cs",
+			"settings":
+			{
+				"buffer_size": 1714,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 470.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/giezu/'",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/player_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/shaders/end_floor_shader.shader",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/shaders/rotate_triangle_shader.shader",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/credits_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/floor_edge_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/floor_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/screen_fader.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/floor_generator.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/last_door_launcher.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/end_game_teleport.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/menu_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/item_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/suicide_src/walking_human.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/constant_animation.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/suicide_src/bad_choice.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/end_floor_shader_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/new_game_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/audio_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/crystal_generator.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/crystal_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/teleport_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/debug_log.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/noe_src/player_noe_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/noe_src/item_noe_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/final.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/finish.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/subtitles_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/angel_skirt_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/shaders/angel_skirt_shader.shader",
+		"/home/giezu/Dokumenty/C++/Allegro/filters/filters.cpp",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/GameManager.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/subtitles_writer.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/shaders/a.compute",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/displ_sub_ctrl.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/bridge_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/new_floor_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/new_triangle_controller.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/triangle_generator.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/shaders/floor_shader.shader",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/player_spawner.cs",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/shaders/NewSurfaceShader.shader",
+		"/home/giezu/Dokumenty/Unity/Otherside/Assets/src/triangle_controller.cs",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/shatterGS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/simpleGS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/new_simpleVS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/scenes/outline_scene.scn",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/blurFS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/simpleVS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/outlineFS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/scenes/outline_scene.hpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/scenes/outline_scene.cpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/Makefile",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/simpleFS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/passVS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/wireframeGS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/passGS,glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/new_simpleFS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/scenes/geometry_shader_scene.cpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/passFS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/passGS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/shaders/wireframeFS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/scenes/main_scene.hpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/scenes/main_scene.cpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/scenes/sample_scene_GS.scn",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/scenes/geometry_shader_scene.hpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/shaders_trial/simpleVS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/shaders_trial/main.cpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/geometry_shader_scene/geometry_shader_scene.cpp",
+		"/home/giezu/Dokumenty/C++/Allegro/filters/main.cpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/shaders_trial/basicVS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/geometry_shader_scene/sample_scene_GS.scn",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/scenes/sample_scene.scn",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/main_scene/main_scene.hpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/main_scene/main_scene.cpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/geometry_shader_scene/geometry_shader_scene.hpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/new_simpleFS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/geometry_shader_scene.cpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/main_scene.cpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/main.cpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/sample_scene.scn",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/simpleVS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/simpleFS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/simpleGS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/new_simpleVS.glsl",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/sample_scene_GS.scn",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/sample_scene2.scn",
+		"/home/giezu/Dokumenty/C++/Allegro/filters/main",
+		"/home/giezu/Dokumenty/C++/OpenGL/common/load_shader.hpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/common/objloader.cpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/common/objloader.",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/1468600811.bmp",
+		"/home/giezu/Dokumenty/Firefox/new_tab.html",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/geometry_shader_scene.hpp",
+		"/home/giezu/Dokumenty/C++/OpenGL/skater/main_scene.hpp",
+		"/home/giezu/.config/sublime-text-2/Packages/User/Terminal.sublime-settings",
+		"/home/giezu/.config/sublime-text-2/Packages/Terminal/Terminal.sublime-settings",
+		"/usr/share/themes/Numix-dark-master/gtk-3.0/gtk-widgets.css",
+		"/usr/share/themes/Numix-dark-master/gtk-3.0/gtk.css",
+		"/usr/share/themes/Numix-dark-master/gtk-3.0/gtk-widgets-assets.css",
+		"/usr/share/themes/Numix-dark-master/gtk-3.0/apps/unity.css",
+		"/usr/share/themes/Numix-dark-master/gtk-2.0/gtkrc",
+		"/home/giezu/.config/sublime-text-2/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/media/giezu/Dane/Kamil/sublime-pakiety",
+		"/etc/hosts"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hoz_move",
+			"floor_map",
+			"player_spawner",
+			"max_timer",
+			"move_timer",
+			"is_player_near",
+			"vertex",
+			"render_texture",
+			"outline_scene",
+			"fTotalSum",
+			"fTempSumY",
+			"I",
+			"J",
+			"fSumY",
+			"fSumX",
+			"fTempSumX",
+			"fTempY",
+			"fTempX",
+			"fYIndex",
+			"fXIndex",
+			"fWidth",
+			"delta_Time",
+			"vPos",
+			"lights",
+			"time",
+			"icon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/GameManager.cs",
+					"settings":
+					{
+						"buffer_size": 3883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2318,
+								2318
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"glslvalidator_configured": true,
+							"glslvalidator_enabled": 1,
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 972.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/noe_src/item_noe_controller.cs",
+					"settings":
+					{
+						"buffer_size": 1815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"glslvalidator_configured": true,
+							"glslvalidator_enabled": 1,
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/noe_src/player_noe_controller.cs",
+					"settings":
+					{
+						"buffer_size": 3736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								677,
+								677
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"glslvalidator_configured": true,
+							"glslvalidator_enabled": 1,
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/player_controller.cs",
+					"settings":
+					{
+						"buffer_size": 3144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1680,
+								1680
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"glslvalidator_configured": true,
+							"glslvalidator_enabled": 1,
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/floor_generator.cs",
+					"settings":
+					{
+						"buffer_size": 11244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1455,
+								1455
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"glslvalidator_configured": true,
+							"glslvalidator_enabled": 1,
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "src/floor_controller.cs",
+					"settings":
+					{
+						"buffer_size": 1714,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"glslvalidator_configured": true,
+							"glslvalidator_enabled": 1,
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 695.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.719362745098,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"floorcon",
+				"src/floor_controller.cs"
+			],
+			[
+				"playercons",
+				"src/player_controller.cs"
+			],
+			[
+				"playernoe",
+				"src/noe_src/player_noe_controller.cs"
+			],
+			[
+				"itemne",
+				"src/noe_src/item_noe_controller.cs"
+			],
+			[
+				"rotatetriasha",
+				"shaders/rotate_triangle_shader.shader"
+			],
+			[
+				"credits",
+				"src/credits_controller.cs"
+			],
+			[
+				"end_floor_contr",
+				"src/end_floor_shader_controller.cs"
+			],
+			[
+				"floorcontroller",
+				"src/floor_edge_controller.cs"
+			],
+			[
+				"fader",
+				"src/screen_fader.cs"
+			],
+			[
+				"generator",
+				"src/floor_generator.cs"
+			],
+			[
+				"credits_con",
+				"src/credits_controller.cs"
+			],
+			[
+				"itemcon",
+				"src/item_controller.cs"
+			],
+			[
+				"floogene",
+				"src/floor_generator.cs"
+			],
+			[
+				"shader",
+				"shaders/end_floor_shader.shader"
+			],
+			[
+				"telepo",
+				"src/teleport_controller.cs"
+			],
+			[
+				"crystalcontro",
+				"src/crystal_controller.cs"
+			],
+			[
+				"crystagene",
+				"src/crystal_generator.cs"
+			],
+			[
+				"debuglo",
+				"src/debug_log.cs"
+			],
+			[
+				"newgame",
+				"src/new_game_controller.cs"
+			],
+			[
+				"gamemanager",
+				"src/GameManager.cs"
+			],
+			[
+				"tele",
+				"src/teleport_controller.cs"
+			],
+			[
+				"subtit",
+				"src/subtitles_controller.cs"
+			],
+			[
+				"dis",
+				"src/displ_sub_ctrl.cs"
+			],
+			[
+				"bridge_con",
+				"src/bridge_controller.cs"
+			],
+			[
+				"new",
+				"src/new_floor_controller.cs"
+			],
+			[
+				"subti",
+				"src/subtitles_controller.cs"
+			],
+			[
+				"trianglegene",
+				"src/triangle_generator.cs"
+			],
+			[
+				"shader_co",
+				"src/end_floor_shader_controller.cs"
+			],
+			[
+				"floor_controller",
+				"src/floor_controller.cs"
+			],
+			[
+				"teleport",
+				"src/teleport_controller.cs"
+			],
+			[
+				"outline.sc",
+				"scenes/outline_scene.scn"
+			],
+			[
+				"simlegs",
+				"simpleGS.glsl"
+			],
+			[
+				"samgs",
+				"sample_scene_GS.scn"
+			],
+			[
+				"mainsceneh",
+				"main_scene.hpp"
+			],
+			[
+				"make",
+				"Makefile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/giezu/Dokumenty/Unity/Komiks Game Jam #3/Assets/src/KGJ3.sublime-project"
+			],
+			[
+				"skater",
+				"/home/giezu/Dokumenty/C++/OpenGL/skater/skater.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}
